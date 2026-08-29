@@ -1,8 +1,18 @@
-# Pause
+<p align="center">
+  <img src="design/icon/pause_glyph.svg" width="150" alt="Pause logo">
+</p>
 
-Take a moment before you continue.
+<h1 align="center">Pause</h1>
 
-[English](#english) | [简体中文](#简体中文)
+<p align="center">
+  Take a moment before you continue.<br>
+  稍作停留
+</p>
+
+<p align="center">
+  <a href="#english">English</a> |
+  <a href="#简体中文">简体中文</a>
+</p>
 
 ## English
 
