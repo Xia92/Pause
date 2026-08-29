@@ -88,7 +88,7 @@ Pause is an early personal/open-source project. It may still contain device-spec
 
 ### License
 
-License information will be added separately.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 简体中文
 
@@ -176,4 +176,4 @@ Pause 目前是一个早期的个人开源项目。由于不同 Android 厂商�
 
 ### 许可证
 
-License information will be added separately.
+本项目采用 MIT License 开源许可证。详情请参阅 [LICENSE](LICENSE)。
