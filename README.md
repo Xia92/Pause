@@ -79,7 +79,12 @@ Pause is an early personal/open-source project. It may still contain device-spec
 
 ### Screenshots / 截图
 
-Screenshots will be added later.
+<p align="center">
+  <img src="docs/screenshots/main.jpg" width="220" alt="Pause main screen">
+  <img src="docs/screenshots/schedule-editor.jpg" width="220" alt="Schedule editor">
+  <img src="docs/screenshots/session-prompt.jpg" width="220" alt="Usage session prompt">
+  <img src="docs/screenshots/final-warning.jpg" width="220" alt="Final warning">
+</p>
 
 ### License
 
@@ -162,7 +167,12 @@ Pause 目前是一个早期的个人开源项目。由于不同 Android 厂商�
 
 ### Screenshots / 截图
 
-截图稍后补充。
+<p align="center">
+  <img src="docs/screenshots/main.jpg" width="220" alt="Pause 主界面">
+  <img src="docs/screenshots/schedule-editor.jpg" width="220" alt="限制时段编辑">
+  <img src="docs/screenshots/session-prompt.jpg" width="220" alt="使用时长提示">
+  <img src="docs/screenshots/final-warning.jpg" width="220" alt="最终提醒">
+</p>
 
 ### 许可证
 
